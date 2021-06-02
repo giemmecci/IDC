@@ -1,0 +1,29 @@
+Case ID,Project,Gender,Age at diagnosis,Days to death,Vital Status,Primary Diagnosis
+TCGA-12-0818,TCGA-GBM,Female,45 years 230 days,7 years 235 days,Dead,Glioblastoma
+TCGA-12-1088,TCGA-GBM,Female,53 years 309 days,10 years 229 days,Dead,Glioblastoma
+TCGA-16-1460,TCGA-GBM,Female,36 years 59 days,--,Alive,Glioblastoma
+TCGA-26-1442,TCGA-GBM,Male,43 years 245 days,--,Alive,Glioblastoma
+TCGA-06-5417,TCGA-GBM,Female,45 years 136 days,--,Alive,Glioblastoma
+TCGA-14-1456,TCGA-GBM,Male,23 years 310 days,--,Alive,Glioblastoma
+TCGA-06-6701,TCGA-GBM,Male,60 years 136 days,--,Alive,Glioblastoma
+TCGA-27-2521,TCGA-GBM,Male,34 years 267 days,1 year 145 days,Dead,Glioblastoma
+TCGA-06-1805,TCGA-GBM,Female,28 years 315 days,--,Alive,Glioblastoma
+TCGA-06-2570,TCGA-GBM,Female,21 years 266 days,--,Alive,Glioblastoma
+TCGA-06-6389,TCGA-GBM,Female,49 years 351 days,--,Alive,Glioblastoma
+TCGA-16-0849,TCGA-GBM,Male,54 years 216 days,--,Alive,Glioblastoma
+TCGA-06-0221,TCGA-GBM,Male,31 years 11 days,1 year 238 days,Dead,Glioblastoma
+TCGA-19-1788,TCGA-GBM,Male,39 years 57 days,112 days,Dead,Glioblastoma
+TCGA-16-0850,TCGA-GBM,Female,52 years 288 days,1 year 133 days,Dead,Glioblastoma
+TCGA-19-A6J5,TCGA-GBM,Male,40 years 360 days,--,Alive,Glioblastoma
+TCGA-14-4157,TCGA-GBM,Male,40 years 206 days,--,Alive,Glioblastoma
+TCGA-14-1458,TCGA-GBM,Male,54 years 176 days,203 days,Dead,Glioblastoma
+TCGA-06-A7TL,TCGA-GBM,Female,30 years 340 days,--,Alive,Glioblastoma
+TCGA-06-0129,TCGA-GBM,Male,30 years 327 days,2 years 294 days,Dead,Glioblastoma
+TCGA-19-2629,TCGA-GBM,Male,60 years 342 days,2 years 7 days,Dead,Glioblastoma
+TCGA-02-2483,TCGA-GBM,Male,43 years 259 days,--,Alive,Glioblastoma
+TCGA-14-1821,TCGA-GBM,Male,31 years 7 days,1 year 176 days,Dead,Glioblastoma
+TCGA-12-0827,TCGA-GBM,Female,38 years 214 days,3 years 84 days,Dead,Glioblastoma
+TCGA-32-4208,TCGA-GBM,Male,25 years 82 days,--,Alive,Glioblastoma
+TCGA-06-0128,TCGA-GBM,Male,66 years 111 days,1 year 326 days,Dead,Glioblastoma
+TCGA-14-0871,TCGA-GBM,Female,74 years 359 days,2 years 150 days,Dead,Glioblastoma
+TCGA-19-1389,TCGA-GBM,Male,51 years 32 days,141 days,Dead,Glioblastoma
